@@ -116,4 +116,4 @@ OpenClaw components retain their original **MIT License** — see `LICENSES/Open
 
 ---
 
-*AiCos — because your companion deserves a home, not just a context window.*
+*AiCos9 — because your companion deserves a home, not just a context window.*
